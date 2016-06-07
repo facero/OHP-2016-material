@@ -12,9 +12,8 @@ Run notebooks interactively in the following links
 
 Interactive thermal SNR spectrum with XMM-MOS and Athena-XIFU response. Click below and then on the file interact-thermal-Xrays.ipynb
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/facero/OHP-2016-material/explore-SNR-spectra)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/facero/OHP-2016-material/SNR/explore-SNR-spectra)
 
 For interactive multi-wavelength spectral energy distribution for SNR click below and on the file explore-SED.ipynb
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/facero/OHP-2016-material/explore-SED)
-
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/facero/OHP-2016-material/SNR/explore-SED)
