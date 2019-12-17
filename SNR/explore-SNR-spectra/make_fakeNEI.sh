@@ -3,16 +3,20 @@
 
 
 
-#MODEL=SOLAR
-MODEL=FE
+MODEL=SOLAR
+#MODEL=FE
 
-for INST in 'XIFU' 'MOS' ; do
+for INST in 'ACIS' ; do
 
 case $INST in
 
 MOS) DATA=data/XMM-MOS
      RMF=$WORK/RXJ1713/XMM-obs/0502080101/phac/M1.rmf
      ARF=$WORK/RXJ1713/XMM-obs/0502080101/phac/M1.arf;;
+
+ACIS) DATA=data/ACIS
+      RMF=$WORK/Xrays/wavelet-denoise/data/CasA/4638/SNR/weight_PI_rebin3.rmf
+      ARF=$WORK/Xrays/wavelet-denoise/data/CasA/4638/SNR/simple_steps.arf;;
 
 XIFU) DATA=data/Athena-XIFU
 RMF=$WORK/Athena/responses/athena_xifu_rmf_v20160401.rmf
