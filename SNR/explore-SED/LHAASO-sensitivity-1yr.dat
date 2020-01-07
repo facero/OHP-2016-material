@@ -1,0 +1,21 @@
+# E (eV)   Sensitivity (erg/cm2/s)
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: energy, unit: eV, datatype: float32}
+# - {name: sensitivity, unit: erg/cm2/s, datatype: float32}
+energy   sensitivity
+1.684e+11 4.010e-11
+3.412e+11 8.029e-12
+7.167e+11 2.358e-12
+1.400e+12 1.015e-12
+3.050e+12 5.941e-13
+7.272e+12 4.486e-13
+1.798e+13 4.486e-13
+3.512e+13 1.352e-13
+8.527e+13 6.125e-14
+1.468e+14 4.994e-14
+2.526e+14 5.391e-14
+4.045e+14 7.324e-14
+6.246e+14 1.190e-13
+8.971e+14 2.252e-13
